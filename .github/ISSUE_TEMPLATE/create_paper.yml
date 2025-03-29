@@ -41,8 +41,16 @@ body:
   - type: input
     id: pdfLink
     attributes:
-      label: "📎 PDF 链接（可选）"
+      label: "📎 PDF 网址（可选）"
       placeholder: "https://example.com/paper.pdf"
+
+  - type: input
+    id: fileLink
+    attributes:
+      label: "📂 文件上传链接（如百度网盘）"
+      placeholder: "https://pan.baidu.com/s/xxxxxxxx"
+    validations:
+      required: true
 
   - type: textarea
     id: summary
