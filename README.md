@@ -6,6 +6,10 @@
   <strong>简体中文 📄</strong> ｜ English 🌎（即将上线）
 </p>
 
+<p align="center">
+  👉 欢迎教师与学生提交论文成果，一起建设 GUET-AI-Hub 平台！
+</p>
+
 ---
 
 ## 👋 欢迎访问 GUET-AI 论文成果平台
@@ -19,7 +23,27 @@
 - ✅ 下载 PDF 文件和 BibTeX 引用格式
 - ✅ 提交并展示您已发表或撰写的 AI 相关论文
 
-我们希望通过平台，展现桂电 AI 研究成果，提升论文复用效率，推动开放科研与学术共享。
+---
+
+## 📥 上传方式
+
+欢迎您通过以下方式上传您的论文资源：
+
+- ✅ [点击填写论文提交表单](https://github.com/GUET-AI-Hub/AI-Papers/issues/new?template=create_paper.yml)
+- ✅ Fork 本仓库 → 上传论文文件夹 → 提交 Pull Request（PR）
+- ✅ 将文件打包发送至管理员邮箱，由平台协助上传
+
+📁 推荐目录结构如下：
+```
+Paper_姓名_年份_关键词
+├── README.md # 简要介绍与引用说明
+├── paper.pdf # 正文 PDF 文件
+├── bibtex.txt # BibTeX 引用格式
+└── code_link.txt # 代码链接（可选）
+```
+
+📘 不熟悉 Fork 操作？  
+👉 [点击查看 Fork + PR 上传详细说明](https://github.com/GUET-AI-Hub/.github/blob/main/profile/help%20doc.md)
 
 ---
 
@@ -27,12 +51,13 @@
 
 如您有任何建议或希望上传论文资源，请联系平台管理员：
 
-- 管理员：王学敏  
-- 邮箱：<wangxuemin@guet.edu.cn>  
-- GitHub主页：[GUET-AI-Hub](https://github.com/GUET-AI-Hub)
+- 👤 管理员：王学敏  
+- 📮 邮箱：wangxuemin@guet.edu.cn  
+- 🔗 GitHub主页：[GUET-AI-Hub](https://github.com/GUET-AI-Hub)
 
 ---
 
 <div align="center">
   <sub>由 GUET-AI-Hub 维护 · 汇聚AI科研论文 · 推动成果共享与开放学术传播</sub>
 </div>
+
